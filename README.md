@@ -1,4 +1,4 @@
-Zomato Data Analysis Project 🥘📊
+#Zomato Data Analysis Project 🥘📊
 This repository contains a comprehensive Jupyter Notebook analyzing Zomato restaurant data from Bangalore. 🍽️ The analysis explores ratings, costs, online ordering trends, and dining types using Python and visualization libraries. ✨
 
 Key Insights 📈
